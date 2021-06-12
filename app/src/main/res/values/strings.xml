@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Mobile POS</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="mobile">Mobile</string>
+    <string name="please_enter_the_mobile_phone_number">Please enter the mobile phone number</string>
+    <string name="wassma_capital">Wassma Capital</string>
+    <string name="next">Next</string>
+    <string name="login_with_mpin">Login with MPIN</string>
+    <string name="name">Hallie Goebel</string>
+    <string name="login_using_fingerprint">Login using Fingerprint</string>
+    <string name="biometric_login_subtitle">Log in using your biometric credential</string>
+    <string name="biometric_login_title">Biometric login for Wassma Capital</string>
+    <string name="cancel">Cancel</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="settings">Settings</string>
+    <string name="my_balance">My Balance</string>
+    <string name="today_s_summary">Today summary</string>
+    <string name="control_payment_methods">Control payment methods</string>
+    <string name="transactions">Transactions</string>
+    <string name="accept_visa">Accept Visa</string>
+    <string name="accept_mastercard">Accept Mastercard</string>
+    <string name="accept_mada">Accept Mada</string>
+    <string name="accept_apple_pay">Accept Apple pay</string>
+    <string name="card_number">**** **** **** %s</string>
+    <string name="amount_sar">%s SAR</string>
+</resources>
